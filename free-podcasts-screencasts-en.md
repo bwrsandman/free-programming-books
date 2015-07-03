@@ -62,7 +62,7 @@
 
 ### Python
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
-* [Podcast] - [Podcast.__init__](http://podcastinit.com/)
+* [Podcast] - [Podcast.\__init\__](http://podcastinit.com/)
 * [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
 * [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://www.talkpythontome.com/)
 * [Screencast] - [TheNewBoston - Pygame (Python Game Development) Playlist](http://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq)
